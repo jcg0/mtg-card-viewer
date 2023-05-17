@@ -20,7 +20,7 @@ nav {
   border-bottom: 2px solid black;
 }
 
-nav div {
+.searchForm {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;

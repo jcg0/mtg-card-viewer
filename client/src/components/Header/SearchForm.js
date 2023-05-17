@@ -1,11 +1,11 @@
 const SearchForm = () => {
   return (
-    <form>
+    <form className="searchForm">
       <div>
-        <div>
-          <label>Search</label>
-          <input type="text" />
-        </div>
+        <label>Search</label>
+        <input type="text" />
+      </div>
+      <div>
         <button type="submit">Search</button>
       </div>
     </form>
